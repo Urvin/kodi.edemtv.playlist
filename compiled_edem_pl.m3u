@@ -1,76 +1,78 @@
 #EXTM3U
-#EXTINF:0 group-title="Познавательные",Animal Planet
-http://fr.cdn.edem.tv/iptv/{{your_token}}/137/index.m3u8
-#EXTINF:0 group-title="Познавательные",Discovery Science
-http://fr.cdn.edem.tv/iptv/{{your_token}}/136/index.m3u8
-#EXTINF:0 group-title="Познавательные",Discovery World
-http://fr.cdn.edem.tv/iptv/{{your_token}}/135/index.m3u8
-#EXTINF:0 group-title="Познавательные",Nat Geo WILD
-http://fr.cdn.edem.tv/iptv/{{your_token}}/133/index.m3u8
+#EXTINF:0 group-title="HD",TV1000 Comedy HD
+http://fr.cdn.edem.tv/iptv/{{your_token}}/200/index.m3u8
+#EXTINF:0 group-title="HD",TV1000 Megahit HD
+http://fr.cdn.edem.tv/iptv/{{your_token}}/201/index.m3u8
+#EXTINF:0 group-title="HD",TV1000 Premium HD
+http://fr.cdn.edem.tv/iptv/{{your_token}}/202/index.m3u8
+#EXTINF:0 group-title="HD",Viasat Nature/History HD
+http://fr.cdn.edem.tv/iptv/{{your_token}}/203/index.m3u8
+#EXTINF:0 group-title="HD",Первый HD
+http://fr.cdn.edem.tv/iptv/{{your_token}}/204/index.m3u8
+#EXTINF:0 group-title="HD",РОССИЯ HD
+http://fr.cdn.edem.tv/iptv/{{your_token}}/205/index.m3u8
+#EXTINF:0 group-title="Взрослые",Playboy TV
+http://fr.cdn.edem.tv/iptv/{{your_token}}/527/index.m3u8
+#EXTINF:0 group-title="Взрослые",Русская ночь
+http://fr.cdn.edem.tv/iptv/{{your_token}}/147/index.m3u8
+#EXTINF:0 group-title="Взрослые",Эгоист ТВ
+http://fr.cdn.edem.tv/iptv/{{your_token}}/526/index.m3u8
 #EXTINF:0 group-title="Детские",Cartoon Network
 http://fr.cdn.edem.tv/iptv/{{your_token}}/143/index.m3u8
-#EXTINF:0 group-title="Познавательные",National Geographic
-http://fr.cdn.edem.tv/iptv/{{your_token}}/134/index.m3u8
+#EXTINF:0 group-title="Детские",Disney Channel
+http://fr.cdn.edem.tv/iptv/{{your_token}}/524/index.m3u8
+#EXTINF:0 group-title="Детские",Gulli
+http://fr.cdn.edem.tv/iptv/{{your_token}}/109/index.m3u8
 #EXTINF:0 group-title="Детские",JimJam
 http://fr.cdn.edem.tv/iptv/{{your_token}}/138/index.m3u8
-#EXTINF:0 group-title="Музыка",MTV Россия
-http://fr.cdn.edem.tv/iptv/{{your_token}}/142/index.m3u8
-#EXTINF:0 group-title="Познавательные",Discovery Channel
-http://fr.cdn.edem.tv/iptv/{{your_token}}/140/index.m3u8
-#EXTINF:0 group-title="Познавательные",Investigation Discovery
-http://fr.cdn.edem.tv/iptv/{{your_token}}/139/index.m3u8
-#EXTINF:0 group-title="Новости",Москва-24
-http://fr.cdn.edem.tv/iptv/{{your_token}}/523/index.m3u8
-#EXTINF:0 group-title="Спорт",Матч ТВ
-http://fr.cdn.edem.tv/iptv/{{your_token}}/535/index.m3u8
-#EXTINF:0 group-title="Спорт",Eurosport 1
-http://fr.cdn.edem.tv/iptv/{{your_token}}/141/index.m3u8
-#EXTINF:0 group-title="Познавательные",Авто 24
-http://fr.cdn.edem.tv/iptv/{{your_token}}/538/index.m3u8
-#EXTINF:0 group-title="Другие",Da Vinci
-http://fr.cdn.edem.tv/iptv/{{your_token}}/537/index.m3u8
-#EXTINF:0 group-title="Кино",TV1000 Русское кино
-http://fr.cdn.edem.tv/iptv/{{your_token}}/101/index.m3u8
-#EXTINF:0 group-title="Спорт",Eurosport 2
-http://fr.cdn.edem.tv/iptv/{{your_token}}/539/index.m3u8
-#EXTINF:0 group-title="Спорт",Extreme Sports
-http://fr.cdn.edem.tv/iptv/{{your_token}}/144/index.m3u8
+#EXTINF:0 group-title="Детские",Nick Jr
+http://fr.cdn.edem.tv/iptv/{{your_token}}/114/index.m3u8
+#EXTINF:0 group-title="Детские",Nickelodeon
+http://fr.cdn.edem.tv/iptv/{{your_token}}/541/index.m3u8
+#EXTINF:0 group-title="Детские",TiJi
+http://fr.cdn.edem.tv/iptv/{{your_token}}/108/index.m3u8
 #EXTINF:0 group-title="Детские",Детский мир
 http://fr.cdn.edem.tv/iptv/{{your_token}}/543/index.m3u8
-#EXTINF:0 group-title="Спорт",Матч! Футбол 2
-http://fr.cdn.edem.tv/iptv/{{your_token}}/530/index.m3u8
-#EXTINF:0 group-title="Спорт",Матч! Игра
-http://fr.cdn.edem.tv/iptv/{{your_token}}/529/index.m3u8
-#EXTINF:0 group-title="Спорт",Матч! Арена
-http://fr.cdn.edem.tv/iptv/{{your_token}}/528/index.m3u8
-#EXTINF:0 group-title="Другие",НТВ-Мир
-http://fr.cdn.edem.tv/iptv/{{your_token}}/544/index.m3u8
-#EXTINF:0 group-title="Другие",Ю ТВ
-http://fr.cdn.edem.tv/iptv/{{your_token}}/534/index.m3u8
-#EXTINF:0 group-title="Кино",Комедия
-http://fr.cdn.edem.tv/iptv/{{your_token}}/145/index.m3u8
-#EXTINF:0 group-title="Кино",Еврокино
-http://fr.cdn.edem.tv/iptv/{{your_token}}/549/index.m3u8
-#EXTINF:0 group-title="Кино",Иллюзион +
-http://fr.cdn.edem.tv/iptv/{{your_token}}/548/index.m3u8
-#EXTINF:0 group-title="Познавательные",Домашние животные
-http://fr.cdn.edem.tv/iptv/{{your_token}}/158/index.m3u8
-#EXTINF:0 group-title="Кино",Индия ТВ
-http://fr.cdn.edem.tv/iptv/{{your_token}}/146/index.m3u8
-#EXTINF:0 group-title="Кино",Дом кино
-http://fr.cdn.edem.tv/iptv/{{your_token}}/154/index.m3u8
-#EXTINF:0 group-title="Развлекательные",Paramount Comedy
-http://fr.cdn.edem.tv/iptv/{{your_token}}/157/index.m3u8
 #EXTINF:0 group-title="Детские",Карусель
 http://fr.cdn.edem.tv/iptv/{{your_token}}/156/index.m3u8
-#EXTINF:0 group-title="Кино",Русский Иллюзион
-http://fr.cdn.edem.tv/iptv/{{your_token}}/547/index.m3u8
-#EXTINF:0 group-title="Познавательные",Надежда
-http://fr.cdn.edem.tv/iptv/{{your_token}}/656/index.m3u8
+#EXTINF:0 group-title="Другие",Da Vinci
+http://fr.cdn.edem.tv/iptv/{{your_token}}/537/index.m3u8
 #EXTINF:0 group-title="Другие",Gamanoid TV
 http://fr.cdn.edem.tv/iptv/{{your_token}}/650/index.m3u8
-#EXTINF:0 group-title="Познавательные",Охота и рыбалка
-http://fr.cdn.edem.tv/iptv/{{your_token}}/159/index.m3u8
+#EXTINF:0 group-title="Другие",Домашний
+http://fr.cdn.edem.tv/iptv/{{your_token}}/514/index.m3u8
+#EXTINF:0 group-title="Другие",МИР
+http://fr.cdn.edem.tv/iptv/{{your_token}}/113/index.m3u8
+#EXTINF:0 group-title="Другие",Много ТВ
+http://fr.cdn.edem.tv/iptv/{{your_token}}/148/index.m3u8
+#EXTINF:0 group-title="Другие",НТВ-Мир
+http://fr.cdn.edem.tv/iptv/{{your_token}}/544/index.m3u8
+#EXTINF:0 group-title="Другие",Первый канал
+http://fr.cdn.edem.tv/iptv/{{your_token}}/127/index.m3u8
+#EXTINF:0 group-title="Другие",Перец
+http://fr.cdn.edem.tv/iptv/{{your_token}}/513/index.m3u8
+#EXTINF:0 group-title="Другие",Пятница
+http://fr.cdn.edem.tv/iptv/{{your_token}}/503/index.m3u8
+#EXTINF:0 group-title="Другие",РЕН ТВ
+http://fr.cdn.edem.tv/iptv/{{your_token}}/128/index.m3u8
+#EXTINF:0 group-title="Другие",РТР-Планета
+http://fr.cdn.edem.tv/iptv/{{your_token}}/546/index.m3u8
+#EXTINF:0 group-title="Другие",Россия 1
+http://fr.cdn.edem.tv/iptv/{{your_token}}/504/index.m3u8
+#EXTINF:0 group-title="Другие",СТС
+http://fr.cdn.edem.tv/iptv/{{your_token}}/506/index.m3u8
+#EXTINF:0 group-title="Другие",ТВ-3
+http://fr.cdn.edem.tv/iptv/{{your_token}}/508/index.m3u8
+#EXTINF:0 group-title="Другие",ТВЦ
+http://fr.cdn.edem.tv/iptv/{{your_token}}/520/index.m3u8
+#EXTINF:0 group-title="Другие",ТНВ-планета
+http://fr.cdn.edem.tv/iptv/{{your_token}}/515/index.m3u8
+#EXTINF:0 group-title="Другие",ТНТ
+http://fr.cdn.edem.tv/iptv/{{your_token}}/502/index.m3u8
+#EXTINF:0 group-title="Другие",Ю ТВ
+http://fr.cdn.edem.tv/iptv/{{your_token}}/534/index.m3u8
+#EXTINF:0 group-title="Кино",AMEDIA 2
+http://fr.cdn.edem.tv/iptv/{{your_token}}/510/index.m3u8
 #EXTINF:0 group-title="Кино",Amedia 1
 http://fr.cdn.edem.tv/iptv/{{your_token}}/554/index.m3u8
 #EXTINF:0 group-title="Кино",Amedia Premium HD
@@ -81,135 +83,133 @@ http://fr.cdn.edem.tv/iptv/{{your_token}}/542/index.m3u8
 http://fr.cdn.edem.tv/iptv/{{your_token}}/550/index.m3u8
 #EXTINF:0 group-title="Кино",Fox Life
 http://fr.cdn.edem.tv/iptv/{{your_token}}/553/index.m3u8
-#EXTINF:0 group-title="Спорт",Матч! Боец
-http://fr.cdn.edem.tv/iptv/{{your_token}}/150/index.m3u8
-#EXTINF:0 group-title="Другие",Много ТВ
-http://fr.cdn.edem.tv/iptv/{{your_token}}/148/index.m3u8
-#EXTINF:0 group-title="Взрослые",Русская ночь
-http://fr.cdn.edem.tv/iptv/{{your_token}}/147/index.m3u8
-#EXTINF:0 group-title="Кино",TV XXI
-http://fr.cdn.edem.tv/iptv/{{your_token}}/525/index.m3u8
-#EXTINF:0 group-title="Познавательные",Авто Плюс
-http://fr.cdn.edem.tv/iptv/{{your_token}}/151/index.m3u8
-#EXTINF:0 group-title="Познавательные",Кухня ТВ
-http://fr.cdn.edem.tv/iptv/{{your_token}}/152/index.m3u8
-#EXTINF:0 group-title="Музыка",MTV Hits
-http://fr.cdn.edem.tv/iptv/{{your_token}}/153/index.m3u8
-#EXTINF:0 group-title="Познавательные",Время
-http://fr.cdn.edem.tv/iptv/{{your_token}}/552/index.m3u8
-#EXTINF:0 group-title="Другие",РТР-Планета
-http://fr.cdn.edem.tv/iptv/{{your_token}}/546/index.m3u8
-#EXTINF:0 group-title="Музыка",Музыка Первого
-http://fr.cdn.edem.tv/iptv/{{your_token}}/155/index.m3u8
-#EXTINF:0 group-title="Взрослые",Эгоист ТВ
-http://fr.cdn.edem.tv/iptv/{{your_token}}/526/index.m3u8
-#EXTINF:0 group-title="Познавательные",Наука 2.0
-http://fr.cdn.edem.tv/iptv/{{your_token}}/118/index.m3u8
-#EXTINF:0 group-title="Познавательные",Моя Планета
-http://fr.cdn.edem.tv/iptv/{{your_token}}/117/index.m3u8
-#EXTINF:0 group-title="Музыка",МУЗ-ТВ
-http://fr.cdn.edem.tv/iptv/{{your_token}}/116/index.m3u8
-#EXTINF:0 group-title="Познавательные",Совершенно секретно
-http://fr.cdn.edem.tv/iptv/{{your_token}}/121/index.m3u8
-#EXTINF:0 group-title="Музыка",Europa Plus TV
-http://fr.cdn.edem.tv/iptv/{{your_token}}/115/index.m3u8
-#EXTINF:0 group-title="Музыка",Rusong TV
-http://fr.cdn.edem.tv/iptv/{{your_token}}/120/index.m3u8
-#EXTINF:0 group-title="Другие",ТНТ
-http://fr.cdn.edem.tv/iptv/{{your_token}}/502/index.m3u8
-#EXTINF:0 group-title="Другие",СТС
-http://fr.cdn.edem.tv/iptv/{{your_token}}/506/index.m3u8
-#EXTINF:0 group-title="Спорт",Матч! Футбол 3
-http://fr.cdn.edem.tv/iptv/{{your_token}}/522/index.m3u8
-#EXTINF:0 group-title="Другие",Россия 1
-http://fr.cdn.edem.tv/iptv/{{your_token}}/504/index.m3u8
-#EXTINF:0 group-title="Другие",Пятница
-http://fr.cdn.edem.tv/iptv/{{your_token}}/503/index.m3u8
-#EXTINF:0 group-title="Детские",Nick Jr
-http://fr.cdn.edem.tv/iptv/{{your_token}}/114/index.m3u8
-#EXTINF:0 group-title="Другие",МИР
-http://fr.cdn.edem.tv/iptv/{{your_token}}/113/index.m3u8
-#EXTINF:0 group-title="Развлекательные",ТНТ4
-http://fr.cdn.edem.tv/iptv/{{your_token}}/104/index.m3u8
-#EXTINF:0 group-title="Детские",Gulli
-http://fr.cdn.edem.tv/iptv/{{your_token}}/109/index.m3u8
-#EXTINF:0 group-title="Развлекательные",STV
-http://fr.cdn.edem.tv/iptv/{{your_token}}/105/index.m3u8
-#EXTINF:0 group-title="Кино",СТС Love
-http://fr.cdn.edem.tv/iptv/{{your_token}}/103/index.m3u8
-#EXTINF:0 group-title="Кино",Ностальгия
-http://fr.cdn.edem.tv/iptv/{{your_token}}/102/index.m3u8
-#EXTINF:0 group-title="Новости",РБК
-http://fr.cdn.edem.tv/iptv/{{your_token}}/106/index.m3u8
-#EXTINF:0 group-title="Детские",TiJi
-http://fr.cdn.edem.tv/iptv/{{your_token}}/108/index.m3u8
-#EXTINF:0 group-title="Новости",Пятый канал
-http://fr.cdn.edem.tv/iptv/{{your_token}}/112/index.m3u8
-#EXTINF:0 group-title="Познавательные",История
-http://fr.cdn.edem.tv/iptv/{{your_token}}/111/index.m3u8
 #EXTINF:0 group-title="Кино",SONY SCI-FI
 http://fr.cdn.edem.tv/iptv/{{your_token}}/110/index.m3u8
-#EXTINF:0 group-title="Новости",Россия 24
-http://fr.cdn.edem.tv/iptv/{{your_token}}/507/index.m3u8
-#EXTINF:0 group-title="Спорт",Матч! Наш спорт
-http://fr.cdn.edem.tv/iptv/{{your_token}}/107/index.m3u8
-#EXTINF:0 group-title="Познавательные",Россия К
-http://fr.cdn.edem.tv/iptv/{{your_token}}/505/index.m3u8
-#EXTINF:0 group-title="Познавательные",24 ДОК
-http://fr.cdn.edem.tv/iptv/{{your_token}}/512/index.m3u8
-#EXTINF:0 group-title="Другие",Перец
-http://fr.cdn.edem.tv/iptv/{{your_token}}/513/index.m3u8
-#EXTINF:0 group-title="Кино",AMEDIA 2
-http://fr.cdn.edem.tv/iptv/{{your_token}}/510/index.m3u8
-#EXTINF:0 group-title="Детские",Disney Channel
-http://fr.cdn.edem.tv/iptv/{{your_token}}/524/index.m3u8
-#EXTINF:0 group-title="Другие",ТВ-3
-http://fr.cdn.edem.tv/iptv/{{your_token}}/508/index.m3u8
-#EXTINF:0 group-title="Другие",Домашний
-http://fr.cdn.edem.tv/iptv/{{your_token}}/514/index.m3u8
-#EXTINF:0 group-title="Другие",ТНВ-планета
-http://fr.cdn.edem.tv/iptv/{{your_token}}/515/index.m3u8
-#EXTINF:0 group-title="Другие",ТВЦ
-http://fr.cdn.edem.tv/iptv/{{your_token}}/520/index.m3u8
-#EXTINF:0 group-title="Взрослые",Playboy TV
-http://fr.cdn.edem.tv/iptv/{{your_token}}/527/index.m3u8
-#EXTINF:0 group-title="Спорт",КХЛ ТВ
-http://fr.cdn.edem.tv/iptv/{{your_token}}/519/index.m3u8
-#EXTINF:0 group-title="Кино",Наше Новое Кино
-http://fr.cdn.edem.tv/iptv/{{your_token}}/517/index.m3u8
-#EXTINF:0 group-title="Спорт",Наш футбол
-http://fr.cdn.edem.tv/iptv/{{your_token}}/531/index.m3u8
-#EXTINF:0 group-title="Детские",Nickelodeon
-http://fr.cdn.edem.tv/iptv/{{your_token}}/541/index.m3u8
-#EXTINF:0 group-title="Спорт",Матч! Футбол 1
-http://fr.cdn.edem.tv/iptv/{{your_token}}/124/index.m3u8
-#EXTINF:0 group-title="Кино",Кинохит
-http://fr.cdn.edem.tv/iptv/{{your_token}}/516/index.m3u8
-#EXTINF:0 group-title="Спорт",Матч! Планета
-http://fr.cdn.edem.tv/iptv/{{your_token}}/123/index.m3u8
-#EXTINF:0 group-title="Музыка",BRIDGE TV
-http://fr.cdn.edem.tv/iptv/{{your_token}}/122/index.m3u8
+#EXTINF:0 group-title="Кино",TV XXI
+http://fr.cdn.edem.tv/iptv/{{your_token}}/525/index.m3u8
+#EXTINF:0 group-title="Кино",TV1000 Русское кино
+http://fr.cdn.edem.tv/iptv/{{your_token}}/101/index.m3u8
+#EXTINF:0 group-title="Кино",Дом кино
+http://fr.cdn.edem.tv/iptv/{{your_token}}/154/index.m3u8
+#EXTINF:0 group-title="Кино",Еврокино
+http://fr.cdn.edem.tv/iptv/{{your_token}}/549/index.m3u8
+#EXTINF:0 group-title="Кино",Иллюзион +
+http://fr.cdn.edem.tv/iptv/{{your_token}}/548/index.m3u8
+#EXTINF:0 group-title="Кино",Индия ТВ
+http://fr.cdn.edem.tv/iptv/{{your_token}}/146/index.m3u8
 #EXTINF:0 group-title="Кино",КИНО ПЛЮС
 http://fr.cdn.edem.tv/iptv/{{your_token}}/509/index.m3u8
+#EXTINF:0 group-title="Кино",Кинохит
+http://fr.cdn.edem.tv/iptv/{{your_token}}/516/index.m3u8
+#EXTINF:0 group-title="Кино",Комедия
+http://fr.cdn.edem.tv/iptv/{{your_token}}/145/index.m3u8
+#EXTINF:0 group-title="Кино",Наше Новое Кино
+http://fr.cdn.edem.tv/iptv/{{your_token}}/517/index.m3u8
 #EXTINF:0 group-title="Кино",Наше кино
 http://fr.cdn.edem.tv/iptv/{{your_token}}/126/index.m3u8
+#EXTINF:0 group-title="Кино",Ностальгия
+http://fr.cdn.edem.tv/iptv/{{your_token}}/102/index.m3u8
 #EXTINF:0 group-title="Кино",Премьера
 http://fr.cdn.edem.tv/iptv/{{your_token}}/125/index.m3u8
+#EXTINF:0 group-title="Кино",Русский Иллюзион
+http://fr.cdn.edem.tv/iptv/{{your_token}}/547/index.m3u8
+#EXTINF:0 group-title="Кино",СТС Love
+http://fr.cdn.edem.tv/iptv/{{your_token}}/103/index.m3u8
+#EXTINF:0 group-title="Музыка",BRIDGE TV
+http://fr.cdn.edem.tv/iptv/{{your_token}}/122/index.m3u8
+#EXTINF:0 group-title="Музыка",Europa Plus TV
+http://fr.cdn.edem.tv/iptv/{{your_token}}/115/index.m3u8
+#EXTINF:0 group-title="Музыка",MTV Hits
+http://fr.cdn.edem.tv/iptv/{{your_token}}/153/index.m3u8
+#EXTINF:0 group-title="Музыка",MTV Россия
+http://fr.cdn.edem.tv/iptv/{{your_token}}/142/index.m3u8
+#EXTINF:0 group-title="Музыка",Rusong TV
+http://fr.cdn.edem.tv/iptv/{{your_token}}/120/index.m3u8
+#EXTINF:0 group-title="Музыка",МУЗ-ТВ
+http://fr.cdn.edem.tv/iptv/{{your_token}}/116/index.m3u8
+#EXTINF:0 group-title="Музыка",Музыка Первого
+http://fr.cdn.edem.tv/iptv/{{your_token}}/155/index.m3u8
+#EXTINF:0 group-title="Новости",Москва-24
+http://fr.cdn.edem.tv/iptv/{{your_token}}/523/index.m3u8
+#EXTINF:0 group-title="Новости",Пятый канал
+http://fr.cdn.edem.tv/iptv/{{your_token}}/112/index.m3u8
+#EXTINF:0 group-title="Новости",РБК
+http://fr.cdn.edem.tv/iptv/{{your_token}}/106/index.m3u8
+#EXTINF:0 group-title="Новости",Россия 24
+http://fr.cdn.edem.tv/iptv/{{your_token}}/507/index.m3u8
+#EXTINF:0 group-title="Познавательные",24 ДОК
+http://fr.cdn.edem.tv/iptv/{{your_token}}/512/index.m3u8
+#EXTINF:0 group-title="Познавательные",Animal Planet
+http://fr.cdn.edem.tv/iptv/{{your_token}}/137/index.m3u8
+#EXTINF:0 group-title="Познавательные",Discovery Channel
+http://fr.cdn.edem.tv/iptv/{{your_token}}/140/index.m3u8
+#EXTINF:0 group-title="Познавательные",Discovery Science
+http://fr.cdn.edem.tv/iptv/{{your_token}}/136/index.m3u8
+#EXTINF:0 group-title="Познавательные",Discovery World
+http://fr.cdn.edem.tv/iptv/{{your_token}}/135/index.m3u8
+#EXTINF:0 group-title="Познавательные",Investigation Discovery
+http://fr.cdn.edem.tv/iptv/{{your_token}}/139/index.m3u8
+#EXTINF:0 group-title="Познавательные",Nat Geo WILD
+http://fr.cdn.edem.tv/iptv/{{your_token}}/133/index.m3u8
+#EXTINF:0 group-title="Познавательные",National Geographic
+http://fr.cdn.edem.tv/iptv/{{your_token}}/134/index.m3u8
 #EXTINF:0 group-title="Познавательные",Outdoor Channel
 http://fr.cdn.edem.tv/iptv/{{your_token}}/119/index.m3u8
-#EXTINF:0 group-title="Другие",РЕН ТВ
-http://fr.cdn.edem.tv/iptv/{{your_token}}/128/index.m3u8
-#EXTINF:0 group-title="Другие",Первый канал
-http://fr.cdn.edem.tv/iptv/{{your_token}}/127/index.m3u8
-#EXTINF:0 group-title="HD",РОССИЯ HD
-http://fr.cdn.edem.tv/iptv/{{your_token}}/205/index.m3u8
-#EXTINF:0 group-title="HD",Первый HD
-http://fr.cdn.edem.tv/iptv/{{your_token}}/204/index.m3u8
-#EXTINF:0 group-title="HD",TV1000 Comedy HD
-http://fr.cdn.edem.tv/iptv/{{your_token}}/200/index.m3u8
-#EXTINF:0 group-title="HD",TV1000 Megahit HD
-http://fr.cdn.edem.tv/iptv/{{your_token}}/201/index.m3u8
-#EXTINF:0 group-title="HD",TV1000 Premium HD
-http://fr.cdn.edem.tv/iptv/{{your_token}}/202/index.m3u8
-#EXTINF:0 group-title="HD",Viasat Nature/History HD
-http://fr.cdn.edem.tv/iptv/{{your_token}}/203/index.m3u8
+#EXTINF:0 group-title="Познавательные",Авто 24
+http://fr.cdn.edem.tv/iptv/{{your_token}}/538/index.m3u8
+#EXTINF:0 group-title="Познавательные",Авто Плюс
+http://fr.cdn.edem.tv/iptv/{{your_token}}/151/index.m3u8
+#EXTINF:0 group-title="Познавательные",Время
+http://fr.cdn.edem.tv/iptv/{{your_token}}/552/index.m3u8
+#EXTINF:0 group-title="Познавательные",Домашние животные
+http://fr.cdn.edem.tv/iptv/{{your_token}}/158/index.m3u8
+#EXTINF:0 group-title="Познавательные",История
+http://fr.cdn.edem.tv/iptv/{{your_token}}/111/index.m3u8
+#EXTINF:0 group-title="Познавательные",Кухня ТВ
+http://fr.cdn.edem.tv/iptv/{{your_token}}/152/index.m3u8
+#EXTINF:0 group-title="Познавательные",Моя Планета
+http://fr.cdn.edem.tv/iptv/{{your_token}}/117/index.m3u8
+#EXTINF:0 group-title="Познавательные",Надежда
+http://fr.cdn.edem.tv/iptv/{{your_token}}/656/index.m3u8
+#EXTINF:0 group-title="Познавательные",Наука 2.0
+http://fr.cdn.edem.tv/iptv/{{your_token}}/118/index.m3u8
+#EXTINF:0 group-title="Познавательные",Охота и рыбалка
+http://fr.cdn.edem.tv/iptv/{{your_token}}/159/index.m3u8
+#EXTINF:0 group-title="Познавательные",Россия К
+http://fr.cdn.edem.tv/iptv/{{your_token}}/505/index.m3u8
+#EXTINF:0 group-title="Познавательные",Совершенно секретно
+http://fr.cdn.edem.tv/iptv/{{your_token}}/121/index.m3u8
+#EXTINF:0 group-title="Развлекательные",Paramount Comedy
+http://fr.cdn.edem.tv/iptv/{{your_token}}/157/index.m3u8
+#EXTINF:0 group-title="Развлекательные",STV
+http://fr.cdn.edem.tv/iptv/{{your_token}}/105/index.m3u8
+#EXTINF:0 group-title="Развлекательные",ТНТ4
+http://fr.cdn.edem.tv/iptv/{{your_token}}/104/index.m3u8
+#EXTINF:0 group-title="Спорт",Eurosport 1
+http://fr.cdn.edem.tv/iptv/{{your_token}}/141/index.m3u8
+#EXTINF:0 group-title="Спорт",Eurosport 2
+http://fr.cdn.edem.tv/iptv/{{your_token}}/539/index.m3u8
+#EXTINF:0 group-title="Спорт",Extreme Sports
+http://fr.cdn.edem.tv/iptv/{{your_token}}/144/index.m3u8
+#EXTINF:0 group-title="Спорт",КХЛ ТВ
+http://fr.cdn.edem.tv/iptv/{{your_token}}/519/index.m3u8
+#EXTINF:0 group-title="Спорт",Матч ТВ
+http://fr.cdn.edem.tv/iptv/{{your_token}}/535/index.m3u8
+#EXTINF:0 group-title="Спорт",Матч! Арена
+http://fr.cdn.edem.tv/iptv/{{your_token}}/528/index.m3u8
+#EXTINF:0 group-title="Спорт",Матч! Боец
+http://fr.cdn.edem.tv/iptv/{{your_token}}/150/index.m3u8
+#EXTINF:0 group-title="Спорт",Матч! Игра
+http://fr.cdn.edem.tv/iptv/{{your_token}}/529/index.m3u8
+#EXTINF:0 group-title="Спорт",Матч! Наш спорт
+http://fr.cdn.edem.tv/iptv/{{your_token}}/107/index.m3u8
+#EXTINF:0 group-title="Спорт",Матч! Планета
+http://fr.cdn.edem.tv/iptv/{{your_token}}/123/index.m3u8
+#EXTINF:0 group-title="Спорт",Матч! Футбол 1
+http://fr.cdn.edem.tv/iptv/{{your_token}}/124/index.m3u8
+#EXTINF:0 group-title="Спорт",Матч! Футбол 2
+http://fr.cdn.edem.tv/iptv/{{your_token}}/530/index.m3u8
+#EXTINF:0 group-title="Спорт",Матч! Футбол 3
+http://fr.cdn.edem.tv/iptv/{{your_token}}/522/index.m3u8
+#EXTINF:0 group-title="Спорт",Наш футбол
+http://fr.cdn.edem.tv/iptv/{{your_token}}/531/index.m3u8

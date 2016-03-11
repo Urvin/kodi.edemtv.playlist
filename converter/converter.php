@@ -88,10 +88,13 @@ if(!function_exists('mb_strcmp'))
 {
 	function mb_strcmp($a, $b)
 	{
+		return strcmp($a, $b);
+		/*
 		return strcmp(
 				preg_replace('#[^\w\s]+#', '', iconv('utf-8', 'ascii//TRANSLIT', $a)),
 				preg_replace('#[^\w\s]+#', '',iconv('utf-8', 'ascii//TRANSLIT', $b))
 		);
+		*/
 	}
 }
 
