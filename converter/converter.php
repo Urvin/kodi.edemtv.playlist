@@ -22,53 +22,55 @@ $lPiconsPath = '../picons/';
 
 // Замена названий телеканалов
 $lKnownReplacements = array(
-		'TB 1000 Русское кино'    => 'TV1000 Русское кино',
-		'РБК-ТВ'                  => 'РБК',
-		'Tiji TV'                 => 'Tiji',
-		'Европа Плюс'             => 'Europa Plus TV',
-		'МУЗ'                     => 'МУЗ-ТВ',
-		'Сов. Секретно'           => 'Совершенно секретно',
-		'Телеканал «Россия»'      => 'Россия 1',
-		'Россия-Культура'         => 'Россия К',
-		'Россия-24'               => 'Россия 24',
-		'ТВ3'                     => 'ТВ-3',
-		'Disney'                  => 'Disney Channel',
-		'KHL'                     => 'КХЛ ТВ',
-		'Москва 24'               => 'Москва-24',
-		'Эгоист'                  => 'Эгоист ТВ',
-		'Playboy'                 => 'Playboy TV',
-		'Телеканал Да Винчи'      => 'Da Vinci',
-		'НТВ Мир'                 => 'НТВ-Мир',
-		'Матч'                    => 'Матч ТВ',
-		'nat geographic'          => 'National Geographic',
-		'Jim Jam'                 => 'JimJam',
-		'MTV'                     => 'MTV Россия',
-		'РТР Планета'             => 'РТР-Планета',
-		'Fox Russia'              => 'FOX',
-		'Музыка'                  => 'Музыка Первого',
-		'Paramount Comedy Russia' => 'Paramount Comedy',
+	'РБК-ТВ'                  => 'РБК',
+	'Пятый Канал'             => '5 канал',
+	'Россия-24'               => 'Россия 24',
+	'Москва 24'               => 'Москва-24',
+	'TV 1000 Русское кино'    => 'TV1000 Русское кино',
+	'Fox Russia'              => 'FOX',
+	'2X2'                     => '2+2',
+	'Европа Плюс'             => 'Europa Plus TV',
+	'МУЗ'                     => 'МУЗ-ТВ',
+	'MTV'                     => 'MTV Россия',
+	'Музыка'                  => 'Музыка Первого',
+	'Сов. Секретно'           => 'Совершенно секретно',
+	'Россия-Культура'         => 'Россия К',
+	'24 ДОК'                  => '24_DOC',
+	'nat geographic'          => 'National Geographic',
+	'Tiji TV'                 => 'Tiji',
+	'Disney'                  => 'Disney Channel',
+	'Jim Jam'                 => 'JimJam',
+	'Paramount Comedy Russia' => 'Paramount Comedy',
+	'Телеканал «Россия»'      => 'Россия 1',
+	'ТВ3'                     => 'ТВ-3',
+	'Телеканал Да Винчи'      => 'Da Vinci',
+	'Телеканал Звезда'        => 'Звезда',
+	'KHL'                     => 'КХЛ ТВ',
+	'Матч! HD'                => 'Матч ТВ',
+	'Эгоист'                  => 'Эгоист ТВ',
+	'Playboy'                 => 'Playboy TV',
 );
 
 // Исключаемые из результата телеканалы
 $lExcludeChannels = array(
-		'ATV',
-		'Ararat',
-		'MTV.AM',
-		'MTV.AM HD',
-		'PanArmenian',
-		'Ար',
-		'Արմենիա Tv',
-		'Արմենիա Tv HD',
-		'Արմնյուզ',
-		'Դար 21',
-		'Երկիր մեդիա',
-		'Կենտրոն',
-		'Հ1',
-		'Հ1 International',
-		'Հ2',
-		'Հ3',
-		'Շանթ',
-		'Շողակաթ',
+	'Հ1',
+	'Դար 21',
+	'Հ2',
+	'Շանթ',
+	'Արմենիա Tv HD',
+	'Կենտրոն',
+	'Երկիր մեդիա',
+	'ATV',
+	'Ար',
+	'Արմնյուզ',
+	'Հ3',
+	'Շողակաթ',
+	'Արմենիա Tv',
+	'MTV.AM HD',
+	'MTV.AM',
+	'PanArmenian',
+	'Ararat',
+	'Toot',
 );
 
 //--------------------------------------------------------------------------------------------------------------------//
@@ -207,6 +209,15 @@ try
 			fwrite($lHandler, '#EXTINF:0 group-title="' . $lChannel['group'] . '",' . $lChannel['name']);
 			fwrite($lHandler, PHP_EOL);
 			fwrite($lHandler, $lChannel['link']);
+			fwrite($lHandler, PHP_EOL);
+		}
+		fclose($lHandler);
+
+
+		if(!$lHandler = fopen('chn.txt', 'w+'))
+			throw new Exception('Cannot create or open output file for writing');
+		foreach($lXmlChannels as &$lXmlChannel) {
+			fwrite($lHandler, $lXmlChannel);
 			fwrite($lHandler, PHP_EOL);
 		}
 		fclose($lHandler);
